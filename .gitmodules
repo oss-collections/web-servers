@@ -1,0 +1,9 @@
+[submodule "httpd"]
+	path = httpd
+	url = git://git.apache.org/httpd.git
+[submodule "thin"]
+	path = thin
+	url = https://github.com/macournoyer/thin.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/nginx/nginx.git
